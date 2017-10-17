@@ -55,6 +55,7 @@ const byTestSuite = suite => browser => {
 };
 
 const compatSources = [
+  "es5",
   "es6",
   "es2016plus",
   "esnext",
