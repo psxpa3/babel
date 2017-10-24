@@ -4,6 +4,8 @@ require("core-js/modules/es6.symbol");
 
 require("core-js/modules/es6.promise");
 
+require("core-js/modules/es6.array.index-of");
+
 require("regenerator-runtime/runtime");
 
 require("core-js/modules/es6.object.assign");
