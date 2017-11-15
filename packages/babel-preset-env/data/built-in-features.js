@@ -14,6 +14,7 @@ const es5 = {
   "es6.date.to-iso-string": "Date methods / Date.prototype.toISOString",
   "es6.date.to-json" : "Date methods / Date.prototype.toJSON",
   "es6.function.bind": "Function.prototype.bind",
+  "es6.string.iterator": "String properties and methods / Property access on strings",
   "es6.string.trim": "String properties and methods / String.prototype.trim",
 };
 

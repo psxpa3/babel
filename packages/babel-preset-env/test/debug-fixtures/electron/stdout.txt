@@ -45,6 +45,7 @@ Using polyfills with `entry` option:
   es6.date.to-iso-string { "electron":"0.36" }
   es6.date.to-json { "electron":"0.36" }
   es6.function.bind { "electron":"0.36" }
+  es6.string.iterator { "electron":"0.36" }
   es6.string.trim { "electron":"0.36" }
   es6.typed.array-buffer { "electron":"0.36" }
   es6.typed.data-view { "electron":"0.36" }

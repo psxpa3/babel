@@ -13,6 +13,7 @@ import "core-js/modules/es6.date.now";
 import "core-js/modules/es6.date.to-iso-string";
 import "core-js/modules/es6.date.to-json";
 import "core-js/modules/es6.function.bind";
+import "core-js/modules/es6.string.iterator";
 import "core-js/modules/es6.string.trim";
 import "core-js/modules/es6.typed.array-buffer";
 import "core-js/modules/es6.typed.data-view";

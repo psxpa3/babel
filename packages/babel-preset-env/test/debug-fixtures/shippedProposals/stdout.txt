@@ -52,6 +52,7 @@ Using polyfills with `entry` option:
   es6.date.to-iso-string {}
   es6.date.to-json {}
   es6.function.bind {}
+  es6.string.iterator {}
   es6.string.trim {}
   es6.typed.array-buffer {}
   es6.typed.data-view {}

@@ -175,6 +175,18 @@
     "android": "4",
     "ios": "7"
   },
+  "es6.string.iterator": {
+    "chrome": "5",
+    "opera": "10.1",
+    "edge": "12",
+    "firefox": "2",
+    "safari": "3.1",
+    "node": "0.1",
+    "ie": "8",
+    "android": "4",
+    "ios": "6",
+    "electron": "1.1"
+  },
   "es6.string.trim": {
     "chrome": "5",
     "opera": "10.5",
