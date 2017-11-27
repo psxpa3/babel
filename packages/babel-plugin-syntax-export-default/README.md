@@ -1,6 +1,6 @@
 # @babel/plugin-syntax-export-default
 
-> Allow parsing of export default from.
+> Allow parsing of `export default from`.
 
 ## Installation
 

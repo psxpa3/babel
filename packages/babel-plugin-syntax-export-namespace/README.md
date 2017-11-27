@@ -1,6 +1,6 @@
 # @babel/plugin-syntax-export-namespace
 
-> Allow parsing of export namespace from.
+> Allow parsing of `export namespace from`.
 
 ## Installation
 
