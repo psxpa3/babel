@@ -1,9 +1,9 @@
-import syntaxExportExtensions from "@babel/plugin-syntax-export-extensions";
+import syntaxExportNamespaceFrom from "@babel/plugin-syntax-export-namespace";
 import { types as t } from "@babel/core";
 
 export default function() {
   return {
-    inherits: syntaxExportExtensions,
+    inherits: syntaxExportNamespaceFrom,
 
     visitor: {
       ExportNamedDeclaration(path) {

@@ -1,1 +1,1 @@
-export v, * as ns from "mod";
+export * as foo, { bar } from "bar";

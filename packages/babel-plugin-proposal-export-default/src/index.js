@@ -1,9 +1,9 @@
-import syntaxExportExtensions from "@babel/plugin-syntax-export-extensions";
+import syntaxExportDefaultFrom from "@babel/plugin-syntax-export-default";
 import { types as t } from "@babel/core";
 
 export default function() {
   return {
-    inherits: syntaxExportExtensions,
+    inherits: syntaxExportDefaultFrom,
 
     visitor: {
       ExportNamedDeclaration(path) {

@@ -1,8 +1,8 @@
 {
-  "name": "@babel/plugin-syntax-export-extensions",
+  "name": "@babel/plugin-syntax-export-default",
   "version": "7.0.0-beta.32",
-  "description": "Allow parsing of export extensions",
-  "repository": "https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-export-extensions",
+  "description": "Allow parsing of export default from",
+  "repository": "https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-export-default",
   "license": "MIT",
   "main": "lib/index.js",
   "keywords": [

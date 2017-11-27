@@ -1,0 +1,4 @@
+{
+  "plugins": ["exportDefault"],
+  "sourceType": "module"
+}

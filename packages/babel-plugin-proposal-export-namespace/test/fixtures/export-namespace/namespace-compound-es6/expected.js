@@ -1,3 +1,3 @@
-export v from "mod";
-import * as _ns from "mod";
-export { _ns as ns };
+import * as _foo from "bar";
+export { _foo as foo };
+export { bar } from "bar";

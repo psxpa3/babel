@@ -1,4 +1,4 @@
 {
-  "plugins": ["exportExtensions", "typescript"],
+  "plugins": ["exportDefault", "typescript"],
   "sourceType": "module"
 }
